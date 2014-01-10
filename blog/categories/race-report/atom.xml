@@ -1,129 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-
-<html>
-
-<head>
-	<meta charset="utf-8">
-	<title>Guillaume Calmettes</title>
-	<meta name="author" content="Guillaume Calmettes">
-
-	
-	<meta name="description" content="Dec 5th, 2013 race report Chimera 100M 2013 - Race Report <img src="/images/chimera-logo.jpg" alt="Chimera Logo" width=30%"width" height="height" &hellip;">
-	
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<link href="/atom.xml" rel="alternate" title="Guillaume Calmettes" type="application/atom+xml">
-	
-	<link rel="canonical" href="http://gcalmettes.github.io/">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
-	<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-</head>
-
-
-<body>
-	<div class="container">
-		<div class="left-col">
-			<div class="intrude-less">
-			<header id="header" class="inner"><div class="profilepic">
-    <img alt="Profile Picture" src="/images/gc-bw.jpg" style="width: 160px;">
-	<script src="/javascripts/md5.js"></script>
-	<script type="text/javascript">
-		$(function(){
-			$('.profilepic').append("<img src='http://www.gravatar.com/avatar/" + MD5("guillaume.calmettes@gmail.com") + "?s=160' alt='Profile Picture' style='width: 160px;' />");
-		});
-	</script>
-</div>
-<hgroup>
-  <h1><a href="/">Guillaume Calmettes</a></h1>
-  
-    <h2>Opening the route</h2>
-  
-</hgroup>
-
-<nav id="main-nav"><ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/about">About</a></li>
-  <li><a href="/blog/results">Schedule/Results</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-
-<section class="aboutme">
-  <p>
-    Trail running blog
-  </p>
-</section>
-</nav>
-<nav id="sub-nav">
-	<div class="social">
-		
-		
-		
-		<a class="twitter" href="http://twitter.com/gcalmettes" title="Twitter">Twitter</a>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
-		
-	</div>
-</nav>
-</header>				
-			</div>
-		</div>	
-		<div class="mid-col">
-			
-				
-			
-			<div class="mid-col-container">
-				<div id="content" class="inner">
-<div itemscope itemtype="http://schema.org/Blog">
-
-
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="meta">
-		<div class="date">
-
-
-
-
-
-
-
+  <title><![CDATA[Category: race report | Guillaume Calmettes]]></title>
+  <link href="http://gcalmettes.github.io/blog/categories/race-report/atom.xml" rel="self"/>
+  <link href="http://gcalmettes.github.io/"/>
+  <updated>2014-01-10T08:35:28-08:00</updated>
+  <id>http://gcalmettes.github.io/</id>
+  <author>
+    <name><![CDATA[Guillaume Calmettes]]></name>
+    <email><![CDATA[guillaume.calmettes@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-12-05T00:00:00-08:00" data-updated="true" itemprop="datePublished">Dec 5<span>th</span>, 2013</time></div>
-		<div class="tags">
-
-
-	<a class='category' href='/blog/categories/race-report/'>race report</a>
-
-
-</div>
-		
-	</div>
-	<h1 class="title" itemprop="name"><a href="/blog/2013/12/05/Chimera2013/" itemprop="url">Chimera 100M 2013 - Race Report</a></h1>
-	<div class="entry-content" itemprop="articleBody">
-		<p>   <p>
-   <img  src="/images/chimera-logo.jpg" alt="Chimera Logo"
+  <entry>
+    <title type="html"><![CDATA[Chimera 100M 2013 - Race Report]]></title>
+    <link href="http://gcalmettes.github.io/blog/2013/12/05/Chimera2013/"/>
+    <updated>2013-12-05T00:00:00-08:00</updated>
+    <id>http://gcalmettes.github.io/blog/2013/12/05/Chimera2013</id>
+    <content type="html"><![CDATA[<p>   <p>
+   <img  src="http://gcalmettes.github.io/images/chimera-logo.jpg" alt="Chimera Logo"
    width=30%"width" height="height" style="float:right;margin:0 0 5px 20px;" />
    Chimera 100M took place in the Saddleback Mountains, CA, a few miles away from Lake Elsinore.
    Knowing part of the trails I went in with the conscious knowledge that this was not going
@@ -138,7 +34,7 @@
    </p></p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-profile.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-profile.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/>New profile of the Chimera 100M race
   </div></p>
@@ -151,7 +47,7 @@ to gather on the starting line to be ready for the 6:30AM race start, and gave h
 words of wisdom. It was cold and pouring rain, but I couldn&rsquo;t wait to be running!</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-start.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-start.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/>&ldquo;At least it won&rsquo;t be dusty&rdquo; &ndash; Steve Harvey, RD &ndash;
   </div></p>
@@ -184,7 +80,7 @@ After the aid station, where nobody stopped, the run opened and we could enjoy t
 surrounding cloudy mountainous landscape.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-train.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-train.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> The Chimera Train Express, tracked by the french locomotive
   </div></p>
@@ -194,7 +90,7 @@ Helped by Pauline and Dom, I unloaded some clothes and exchanged my bottles in a
 before going after Fabrice who did not even stop to refill.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-candystore.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-candystore.jpg" alt="home made marthon splits"
   width=60%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Quick transition at the Candy Store AS before going after Fabrice
   </div></p>
@@ -222,7 +118,7 @@ over-energized by I don&rsquo;t know what and got me dry and ready in record tim
 I left Bluejay 5min ahead of everybody else, feeling really good and enjoying the moment.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-firstplace.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-firstplace.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Formula Uno pit stop = One happy runner leading the race after 33mi
   </div></p>
@@ -237,7 +133,7 @@ I handled this one. In fact, at the <a href="http://laurenontherun.blogspot.com/
 still had the same 5min lead on Fabrice. As this point, Brian was just 20min behind him.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-holyjim.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-holyjim.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Quick water sip at Holy Jim AS with Fabrice just 5min behind
   (photo by <a href="http://laurenontherun.blogspot.com/2013/11/holy-jim-aid-chimera-2013.html">Lauren</a>)
@@ -250,7 +146,7 @@ earlier, to run the first half consistently and try to make a push on the second
 The switchbacks of the beginning of the climb were a lot of fun to run on.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-climb.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-climb.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Enjoying some nice running in the SaddleBack Mountains
   </div></p>
@@ -267,7 +163,7 @@ at that point, because I had to push a bit to try to stay with him. He slowly go
 and arrived 5min before me at the Maple Spring AS (mile 53).</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-maplesprings.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-maplesprings.jpg" alt="home made marthon splits"
   width=60%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Maple Springs AS with Fabrice. Just happy to be here (photo by Trisha Tighe)
   </div></p>
@@ -297,7 +193,7 @@ In addition, I was now running with my first pacer, <a href="http://www.dominicg
 and I knew he would give me all the pep talk I would need to keep me on track.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-silverado.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-silverado.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> IN and OUT of the Silverado AS. Glad we got some good news at the check out!
   </div></p>
@@ -317,7 +213,7 @@ by <a href="http://www.sandiego100.com">Scott Mills</a>. I took in some of their
 we took off after they told us Fabrice was only 15min ahead.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-bedfordpeak.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-bedfordpeak.jpg" alt="home made marthon splits"
   width=60%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Enjoying the moonrise on our way to Bedford Peak (photo by Dom)
   </div></p>
@@ -330,7 +226,7 @@ saw <a href="https://twitter.com/erincha">Erin</a>, looking good in her second 1
 few months ago.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-night.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-night.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Into the night at Chimera 100 (photos by Dom)
   </div></p>
@@ -349,7 +245,7 @@ good and we cheered on each others. Few minutes later, Dom and I got to the Coro
 and I got welcomed by even more friends as <a href="http://breakingexcellent.blogspot.com">Katie</a> had also arrived to join the group.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-corona.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-corona.jpg" alt="home made marthon splits"
   width=50%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Just 15mi left! Still smiling at Corona AS.
   </div></p>
@@ -367,7 +263,7 @@ who was coming down to Corona, and Christophe told me we had about 1h15 on him. 
 got to the top where we cheered on more runners coming down.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-itt.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-itt.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> The ITT aid station!
   </div></p>
@@ -392,13 +288,13 @@ in a time of 20:19:13.</p>
 I couldn&rsquo;t have been more happy.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-finish.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-finish.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Champagne shower at the finish line
   </div></p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-postrace.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-postrace.jpg" alt="home made marthon splits"
   width=95%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Post-race celebration with friends
   </div></p>
@@ -433,47 +329,21 @@ the race. I couldn&rsquo;t have done it without their support. Thank you all!</p
 <p>See you next year!</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/chimera2013-belt.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/chimera2013-belt.jpg" alt="home made marthon splits"
   width=60%"width" height="height" style="padding-bottom:0.5em; padding-top:0.5em;" />
   <br/> Chimera Belt
   </div></p>
 
 <hr />
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="meta">
-		<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-03-24T00:00:00-07:00" data-updated="true" itemprop="datePublished">Mar 24<span>th</span>, 2013</time></div>
-		<div class="tags">
-
-
-	<a class='category' href='/blog/categories/race-report/'>race report</a>
-
-
-</div>
-		
-	</div>
-	<h1 class="title" itemprop="name"><a href="/blog/2013/03/24/LAM2013/" itemprop="url">Los Angeles Marathon 2013 - Race Report</a></h1>
-	<div class="entry-content" itemprop="articleBody">
-		<p>My goal for this 28th edition of the LA Marathon was ambitious (at least for me ;)):
+  <entry>
+    <title type="html"><![CDATA[Los Angeles Marathon 2013 - Race Report]]></title>
+    <link href="http://gcalmettes.github.io/blog/2013/03/24/LAM2013/"/>
+    <updated>2013-03-24T00:00:00-07:00</updated>
+    <id>http://gcalmettes.github.io/blog/2013/03/24/LAM2013</id>
+    <content type="html"><![CDATA[<p>My goal for this 28th edition of the LA Marathon was ambitious (at least for me ;)):
 I wanted to run a sub-3h marathon.
 I knew it wouldn&rsquo;t be easy as that would imply to shave almost 26min off my marathon PR
 (3:25:39, set at the LA marathon 2012), but I guess we also run to overcome challenges
@@ -502,7 +372,7 @@ people at the expo had for the race. We stopped by most of the sponsor booths an
 a ton of goodies ;)</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/lam2013-expo.jpeg" alt="LA marathon exposition"
+  <img src="http://gcalmettes.github.io/images/lam2013-expo.jpeg" alt="LA marathon exposition"
   width=80%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>With David at the pre-race exposition
   </div></p>
@@ -524,7 +394,7 @@ the second half has more downhills, so in the case I cannot sustain the pace
 the downhills would help to limit any time damage.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/lam2013-profile.jpg" alt="LA marathon profile"
+  <img src="http://gcalmettes.github.io/images/lam2013-profile.jpg" alt="LA marathon profile"
   width=100%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Elevation profile of the LA marathon.
   </div></p>
@@ -537,7 +407,7 @@ I then did for the first time a proper taper on the two last weeks leading to
 the race.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/lam2013-armsplit.jpg" alt="home made marthon splits"
+  <img src="http://gcalmettes.github.io/images/lam2013-armsplit.jpg" alt="home made marthon splits"
   width=80%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>My home-made pace band
   </div></p>
@@ -640,7 +510,7 @@ Mile 22 - 6:42
 It was great to see them.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/lam2013-withpauline.jpg" alt="LA marathon guillaume calmettes"
+  <img src="http://gcalmettes.github.io/images/lam2013-withpauline.jpg" alt="LA marathon guillaume calmettes"
   width=80%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Accompanied by Pauline along the Brentwood Golf
   </div></p>
@@ -650,7 +520,7 @@ half a mile. He took a bunch of pictures, including this one showing my
 underwear-based marathon suit.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/lam2013-mile23.jpg" alt="LA marathon guillaume calmettes"
+  <img src="http://gcalmettes.github.io/images/lam2013-mile23.jpg" alt="LA marathon guillaume calmettes"
   width=50%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Smiling and feeling really good with only 3 miles to go!
   </div></p>
@@ -675,7 +545,7 @@ for 104 out of 23,016 finishers.</p>
 The second half was hard but he stayed focused and did it!</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/lam2013-medals.jpg" alt="LA marathon medals"
+  <img src="http://gcalmettes.github.io/images/lam2013-medals.jpg" alt="LA marathon medals"
   width=80%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Happy marathoners
   </div></p>
@@ -695,53 +565,27 @@ probably an other effect of my increase in volume training.</p>
 <p>I can&rsquo;t wait to be back on the trails now!</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/lam2013-splits.jpg" alt="LA marathon guillaume calmettes splits"
+  <img src="http://gcalmettes.github.io/images/lam2013-splits.jpg" alt="LA marathon guillaume calmettes splits"
   width=100%"width" height="height" style="padding-bottom:0.5em;" />
   </div></p>
 
 <hr />
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="meta">
-		<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-02-20T00:00:00-08:00" data-updated="true" itemprop="datePublished">Feb 20<span>th</span>, 2013</time></div>
-		<div class="tags">
-
-
-	<a class='category' href='/blog/categories/race-report/'>race report</a>
-
-
-</div>
-		
-	</div>
-	<h1 class="title" itemprop="name"><a href="/blog/2013/02/20/Bandit50K/" itemprop="url">Bandit 50K 2013 - Race Report</a></h1>
-	<div class="entry-content" itemprop="articleBody">
-		<p>Last week end was held the <a href="http://banditultratrailrun.com">2013 Bandit Ultra Run 50K</a> in Simi Valley.
+  <entry>
+    <title type="html"><![CDATA[Bandit 50K 2013 - Race Report]]></title>
+    <link href="http://gcalmettes.github.io/blog/2013/02/20/Bandit50K/"/>
+    <updated>2013-02-20T00:00:00-08:00</updated>
+    <id>http://gcalmettes.github.io/blog/2013/02/20/Bandit50K</id>
+    <content type="html"><![CDATA[<p>Last week end was held the <a href="http://banditultratrailrun.com">2013 Bandit Ultra Run 50K</a> in Simi Valley.
 This race went into my radar few days after I finished the <a href="http://gcalmettes.github.io/blog/2012/12/05/TNF50K/">TNFC 50K</a>
 while I was looking for a good race to start off 2013.
 The Bandit 50K profile shows more elevation compared to the TNFC 50K, and consists of
 2 long major climbs with 4 smaller climbs in between.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/bandit50k-profile.jpg" alt="bandit 50K profile"
+  <img src="http://gcalmettes.github.io/images/bandit50k-profile.jpg" alt="bandit 50K profile"
   width=80%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>The Bandit 50K profile
   </div></p>
@@ -777,7 +621,7 @@ rest of the race. I hold back a little bit and I rapidly got passed by Keith Yan
 then Chris Zurbuch who both looked very easy in the uphill.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/bandit50k-firstclimb.jpg" alt="bandit 50K guillaume calmettes"
+  <img src="http://gcalmettes.github.io/images/bandit50k-firstclimb.jpg" alt="bandit 50K guillaume calmettes"
   width=80%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Halfway to the top of the first climb.
   <br/>Photo <a href="http://www.allwedoisrun.com">Luis Escobar</a></div></p>
@@ -791,7 +635,7 @@ descent, with great scenic views over the Simi Valley mountains.
 I loved every second of it and I had a lot of fun running it.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/bandit50k-singletrack.jpg" alt="bandit 50K single track"
+  <img src="http://gcalmettes.github.io/images/bandit50k-singletrack.jpg" alt="bandit 50K single track"
   width=60%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Having fun on a top-notch single track.<br/>Photo <a href="http://ericagratton.com">Erica Gratton</a></div></p>
 
@@ -810,7 +654,7 @@ so good finally, lol), but hopefully I was called back almost instantly by the v
 who prevented me to be off course for more than just a couple hundreds feet (thank you guys!!).</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/bandit50k-hotdoghill.jpg" alt="bandit 50K Hot Dog Hill"
+  <img src="http://gcalmettes.github.io/images/bandit50k-hotdoghill.jpg" alt="bandit 50K Hot Dog Hill"
   width=50%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>The &ldquo;Hot Dog Hill&rdquo;<br>and the right turn entrance I almost missed</div></p>
 
@@ -850,7 +694,7 @@ beginning of the day. Once there, I drank a lot of coke, ate two potatoes and so
 salty pretzel, hoping to recover some of my energy.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/bandit50k-wateraid.jpg" alt="bandit 50K aid station"
+  <img src="http://gcalmettes.github.io/images/bandit50k-wateraid.jpg" alt="bandit 50K aid station"
   width=80%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>The aid station at the top of the last big climb.
   <br/>No Food, but killer view on the surrounding mountains!
@@ -866,7 +710,7 @@ mile to finish in 6th place in 4:40 (2nd in Age Group), 30 min behind Chris Pric
 who set an amazing new course record.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/bandit50k-prizzle.jpg" alt="bandit 50K win by Chris Price"
+  <img src="http://gcalmettes.github.io/images/bandit50k-prizzle.jpg" alt="bandit 50K win by Chris Price"
   width=70%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Congratulations to Chris Price for his amazing race and CR!
   <br/>Photo <a href="http://www.larunner.com">Billy Yang</a></div></p>
@@ -895,42 +739,16 @@ Hopefully this will be beneficial for
 my future trail running races.</p>
 
 <hr />
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="meta">
-		<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2012-12-05T00:00:00-08:00" data-updated="true" itemprop="datePublished">Dec 5<span>th</span>, 2012</time></div>
-		<div class="tags">
-
-
-	<a class='category' href='/blog/categories/race-report/'>race report</a>
-
-
-</div>
-		
-	</div>
-	<h1 class="title" itemprop="name"><a href="/blog/2012/12/05/TNF50K/" itemprop="url">TNFC 50K 2012 - Race Report</a></h1>
-	<div class="entry-content" itemprop="articleBody">
-		<p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/tnf50-rain.jpg" alt="happy runner TNFC 50"
+  <entry>
+    <title type="html"><![CDATA[TNFC 50K 2012 - Race Report]]></title>
+    <link href="http://gcalmettes.github.io/blog/2012/12/05/TNF50K/"/>
+    <updated>2012-12-05T00:00:00-08:00</updated>
+    <id>http://gcalmettes.github.io/blog/2012/12/05/TNF50K</id>
+    <content type="html"><![CDATA[<p>  <div style="width:image width px; font-size:80%; text-align:center;">
+  <img src="http://gcalmettes.github.io/images/tnf50-rain.jpg" alt="happy runner TNFC 50"
   width=80%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Happy runner under the rain</div></p>
 
@@ -958,7 +776,7 @@ Well, at least the race was still on!
 (it happened that all the Sunday&rsquo;s races &mdash; 5k, 10k, &amp; half marathon &mdash; were cancelled)</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/tnf50-profile.jpg" alt="happy runner TNFC 50"
+  <img src="http://gcalmettes.github.io/images/tnf50-profile.jpg" alt="happy runner TNFC 50"
   width=90%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Profile of the 2012 TFNC 50K modified course</div></p>
 
@@ -969,7 +787,7 @@ just mud everywhere and 45 min before the start I was already cold and soaked &h
 not really a good start ;) Still, I was excited to toe the line.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:right;">
-  <img src="/images/tnf50-start.jpg" alt="TNFC 50 start in the dark" align="right"
+  <img src="http://gcalmettes.github.io/images/tnf50-start.jpg" alt="TNFC 50 start in the dark" align="right"
   width=40%"width" height="height" style="padding-bottom:0.5em; padding-left:0.5em" />
   </div></p>
 
@@ -993,12 +811,12 @@ and quickly closing the gap on me. As they arrived to my side, I realized that t
 were the leaders of the 50 Mile race that started 2h earlier than the 50K,
 and they were already in their second loop. I was now running
 with some athletes of the Salomon Team, <a href="http://www.miguelheras.com/">Miguel Heras</a>, Greg Vollet,
-François d&#8217;Haene, as well as <a href="https://twitter.com/mwolfepaw">Mike Wolfe</a> and  Cameron Clayton ;)
+François d'Haene, as well as <a href="https://twitter.com/mwolfepaw">Mike Wolfe</a> and  Cameron Clayton ;)
 I couldn&rsquo;t maintain their speedy pace in the downhill for a long time though,
 so quickly I was alone again, with a big smile on my face.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/tnf50-withgreg.jpg" alt="Guillaume Calmettes and Greg Vollet"
+  <img src="http://gcalmettes.github.io/images/tnf50-withgreg.jpg" alt="Guillaume Calmettes and Greg Vollet"
   width=90%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Charging the downhill with Greg Vollet</div></p>
 
@@ -1015,7 +833,7 @@ ask for more! I threw my hands up in the air, being
 so happy to have run further than I have had, especially in those flood-like conditions.</p>
 
 <p>  <div style="width:image width px; font-size:80%; text-align:center;">
-  <img src="/images/tnf50-joshua.jpg" alt="joshua korn TNFC 50"
+  <img src="http://gcalmettes.github.io/images/tnf50-joshua.jpg" alt="joshua korn TNFC 50"
   width=45%"width" height="height" style="padding-bottom:0.5em;" />
   <br/>Joshua Korn, winner of the TNFC 50K 2012
   <br/>Photo <a href="http://trappephoto.com">Matt Trappe</a></div></p>
@@ -1031,56 +849,7 @@ running is all about sharing with others! A lot of great memories!</p>
 <p>What a great first 50K trail race! Time to start getting ready for 2013 now!</p>
 
 <hr />
-
-		
-		
-	</div>
-
-</article>
-
-</div>
-<nav id="pagenavi">
-    
-    
-    <div class="center"><a href="/blog/archives">Blog Archives</a></div>
-</nav></div>
-			</div>
-			<footer id="footer" class="inner"><p>
-  Copyright &copy; 2014 - Guillaume Calmettes -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Shashank Mehta</a></footer>
-			<script src="/javascripts/slash.js"></script>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-
-<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-(function($){
-	$('.fancybox').fancybox();
-})(jQuery);
-</script> <!-- Delete or comment this line to disable Fancybox -->
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'gcalmettesblog';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-
-
-
-		</div>
-	</div>
-</body>
-</html>
+]]></content>
+  </entry>
+  
+</feed>
